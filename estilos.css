@@ -1,0 +1,10 @@
+.perfil{
+    width: 350px;
+    height: 350px;
+}
+body{
+    background-image: linear-gradient(to right top, #277df7, #199bfd, #4ab7fd, #7fcffa, #b4e5f8);
+}
+.items{
+    background-image: linear-gradient(to right top, #dddee0, #cecfd1, #c0c1c2, #b1b2b3, #a3a4a5);
+}
